@@ -2,11 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>Your Sports News</title>
-        <link>https://yourwebsite.com</link>
         <description>Latest updates on BKFC and UEFA</description>
         <item>
             <title>BKFC Event: New Fight Announced</title>
-            <link>https://yourwebsite.com/bkfc-fight</link>
             <description>Details of the upcoming fight.</description>
             <pubDate>Tue, 10 Dec 2024 12:00:00 GMT</pubDate>
         </item>

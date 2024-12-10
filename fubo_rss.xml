@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sportsNews>
+    <newsItem id="news001">
+        <headline>Shock Transfer: Messi Returns to Barcelona</headline>
+        <date>2024-12-10</date>
+        <summary>In an unexpected move, Lionel Messi is reportedly set to return to Barcelona after leaving Paris Saint-Germain. The transfer has stunned the football world as Messi is said to be eager to reunite with his former teammates.</summary>
+    </newsItem>
+    <newsItem id="news002">
+        <headline>Manchester United Set for Record Breaking Deal</headline>
+        <date>2024-12-10</date>
+        <summary>Manchester United is reportedly in talks to secure the biggest signing in their history, with a potential deal worth over €150 million for a young attacking sensation.</summary>
+    </newsItem>
+    <newsItem id="news003">
+        <headline>Real Madrid to Build New Stadium for 2026 World Cup</headline>
+        <date>2024-12-10</date>
+        <summary>Real Madrid has announced plans to build a state-of-the-art stadium ahead of the 2026 FIFA World Cup. The stadium will feature the latest technology and will be able to host matches in both day and night settings.</summary>
+    </newsItem>
+</sportsNews>
